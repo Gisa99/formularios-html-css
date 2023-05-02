@@ -94,4 +94,13 @@ input, select, textarea, button{
     display: inline-block;
 }
 
+@media(min-width: 475px) and (max-width: 800px){
+
+    .caixa-formulario{
+        width: 100%;
+    }
+
+
+}
+
 
